@@ -28,32 +28,50 @@
 - Summer 2020 Algorithm Branch Intern at DJI
 - Fall 2021/Spring 2022 Subteam Electrical Engineering Lead for DJI RoboMaster
 
+</br>
+
 ---
 
-**CS Work**
+**🍎 CS Work**
 - [CS 2114 - Data Structures and Algorithms II](https://github.com/Jkatyan/CS-2114)
+- [DJI Internship - Summer 2020](https://github.com/Jkatyan/DJI-Robomaster-2020)
+- [VEX Robotics - 2020/2021](https://github.com/Jkatyan/2602H-2020-2021)
+- [VEX Robotics - 2019/2020](https://github.com/Jkatyan/2602H-2019-2020)
+- [VEX Robotics Odometry](https://github.com/Jkatyan/Odometry)
 
-**Projects**
+</br>
+
+---
+
+**🌯 Projects**
+
+- IRYS, ADHD Diagnosis Tool
+
+  - *With ADHD in children rising every year, there needs to be a solution to combat this. Introducing: IRYS, an ADHD diagnosis program using eye-tracking and machine learning for more accurate prognosis.*
+
+  - [Project Repository](https://github.com/Jkatyan/adhdapp) • [Project Page](https://devpost.com/software/irys)
 
 - Safe Track
 
   - *Safe Track is a mobile/web application designed to guide users safely at night, using community-sourced navigation to provide the safest path to any location, integrated    with instant location sharing.*
 
-  - [Project Repository](https://github.com/Jkatyan/hack-violet)
+  - [Project Repository](https://github.com/Jkatyan/hack-violet) • [Project Page](https://devpost.com/software/safe-track)
 
-  - [Project Page](https://devpost.com/software/safe-track)
-                                           
-With ADHD in children rising every year, there needs to be a solution to combat this. Introducing: IRYS, an ADHD diagnosis program using eye-tracking and machine learning for more accurate prognosis.
+- ZETA
 
+  - *Affordable Cloud-Based Machine Learning Framework*
 
-- [IRYS, ](https://github.com/Jkatyan/adhdapp)
-- [AI - Deep Learning - Data Science](https://github.com/bgrose/AI-DeepLearning-DataScience)
-- [Image Processing (OpenCV, Pillows, etc)](https://github.com/bgrose/ImageProcessing)
+  - [Project Repository](https://github.com/1sigmoid/zeta-backend)
+ 
+- Track Force
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgrose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  - *Contact-free, modular, swerve module movement through IR, IMU, and Ultrasonic input. TrackForce allows you to manipulate objects without direct contact, helping to stop the spread of COVID-19.*
+
+  - [Project Repository](https://github.com/Jkatyan/TrackForce) • [Project Page](https://devpost.com/software/trackforce)
+ 
 
 ---
 
 **📫 Contact Me!**
-- Email bradley@grose.net
-- Phone (203) 733-0719
+- Email jaykatyan@gmail.com
+- Phone (617) 459 0155
