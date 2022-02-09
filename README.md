@@ -2,9 +2,6 @@
 <a href="https://discord.com/users/297524766770987018">
   <img align="left" alt="Jay's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.instagram.com/jaykatyan">
-  <img align="left" alt="Jay Katyan" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
-</a>
 <a href="https://www.linkedin.com/in/jaykatyan/">
   <img align="left" alt="Jay Katyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
