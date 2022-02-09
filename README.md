@@ -11,7 +11,7 @@
 ---
 
 **🏫 Education**</br></br>
-***Virginia Tech, Class of 2025***
+***Virginia Tech***
 - Major in Computer Science, Minor in Mathematics
 - Electrical Engineer at Virginia Tech RoboMaster
 - GPA: 3.890/4.000
