@@ -6,7 +6,6 @@
   <img align="left" alt="Jay Katyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-</br>
 
 ---
 
@@ -16,7 +15,6 @@
 - Electrical Engineer at Virginia Tech RoboMaster
 - GPA: 3.890/4.000
 
-</br>
 
 ---
 
@@ -25,7 +23,6 @@
 - Summer 2020 Algorithm Branch Intern at DJI
 - Fall 2021/Spring 2022 Subteam Electrical Engineering Lead for DJI RoboMaster
 
-</br>
 
 ---
 
@@ -36,7 +33,6 @@
 - [VEX Robotics - 2019/2020](https://github.com/Jkatyan/2602H-2019-2020)
 - [VEX Robotics Odometry](https://github.com/Jkatyan/Odometry)
 
-</br>
 
 ---
 
