@@ -1,17 +1,12 @@
-### Hey there, I'm Jay!
-<a href="https://discord.com/users/297524766770987018">
-  <img align="left" alt="Jay's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jaykatyan/">
-  <img align="left" alt="Jay Katyan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### :wave: Hey there, I'm Jay!
+I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reach out!
 
-</br>
-
+- Email: jaykatyan@gmail.com
+- Phone: (617) 459 0155
 ---
 
 **🏫 Education**</br></br>
-***Virginia Tech, Class of 2024***
+***Virginia Tech, Class of 2025***
 - Major in Computer Science, Minor in Mathematics
 - Electrical Engineer at Virginia Tech RoboMaster
 - GPA: 3.890/4.000
@@ -62,10 +57,3 @@
   - *Contact-free, modular, swerve module movement through IR, IMU, and Ultrasonic input. TrackForce allows you to manipulate objects without direct contact, helping to stop the spread of COVID-19.*
 
   - [Project Repository](https://github.com/Jkatyan/TrackForce) • [Project Page](https://devpost.com/software/trackforce)
- 
-
----
-
-**📫 Contact Me!**
-- Email jaykatyan@gmail.com
-- Phone (617) 459 0155
