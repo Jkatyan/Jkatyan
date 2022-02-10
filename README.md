@@ -69,7 +69,11 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></a>
+</div>
+
+<div align='center'>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="ReactJS"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"/></a>
 </div>
+
