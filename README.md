@@ -58,3 +58,18 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
   - *Contact-free, modular, swerve module movement through IR, IMU, and Ultrasonic input. TrackForce allows you to manipulate objects without direct contact, helping to stop the spread of COVID-19.*
 
   - [Project Repository](https://github.com/Jkatyan/TrackForce) • [Project Page](https://devpost.com/software/trackforce)
+
+
+---
+
+**🧪 Skills** *I'm Currently Learning...*
+
+<div align='center'>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="ExpressJS"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/cockroachlabs/cockroachlabs-ar21.svg" alt="CockroachBD"/></a>
+  <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"/></a>
+</div>
