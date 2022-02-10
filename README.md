@@ -3,6 +3,7 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 
 - Email: jaykatyan@gmail.com
 - Phone: (617) 459 0155
+- Discord: Java#2464
 ---
 
 **🏫 Education**</br></br>
