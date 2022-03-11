@@ -7,7 +7,7 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 ---
 
 **🏫 Education**</br></br>
-***Virginia Tech, Class of 2025***
+***Virginia Tech, Class of 2024***
 - Major in Computer Science, Minor in Mathematics
 - Electrical Engineer at Virginia Tech RoboMaster
 - GPA: 3.750/4.000
