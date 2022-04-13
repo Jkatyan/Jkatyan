@@ -9,7 +9,7 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 **🏫 Education**</br></br>
 ***Virginia Tech, Class of 2024***
 - Major in Computer Science, Minor in Mathematics
-- Electrical Engineer at Virginia Tech RoboMaster
+- Electrical Engineer at Virginia Tech RoboMaster and SailBot
 - GPA: 3.893/4.000
 
 
