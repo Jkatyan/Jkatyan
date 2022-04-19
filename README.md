@@ -24,7 +24,8 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 ---
 
 **🍎 CS Work**
-- [CS 2114 - Data Structures and Algorithms II](https://github.com/Jkatyan/CS-2114)
+- [CS 2114 - Data Structures and Algorithms II](https://github.com/Jkatyan/CS-2114) *Private repository, permission required!*
+- [CS 2104 - Problem Solving in Computer Science](https://github.com/Jkatyan/CS-2104) *Private repository, permission required!*
 - [DJI Internship - Summer 2020](https://github.com/Jkatyan/DJI-Robomaster-2020)
 - [VEX Robotics - 2020/2021](https://github.com/Jkatyan/2602H-2020-2021)
 - [VEX Robotics - 2019/2020](https://github.com/Jkatyan/2602H-2019-2020)
