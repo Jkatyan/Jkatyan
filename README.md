@@ -44,7 +44,7 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 
   - *With ADHD in children rising every year, there needs to be a solution to combat this. Introducing: IRYS, an ADHD diagnosis program using eye-tracking and machine learning for more accurate prognosis.*
 
-  - [Project Repository](https://github.com/Jkatyan/adhdapp) • [Project Page](https://devpost.com/software/irys)
+  - [Project Repository](https://github.com/Jkatyan/adhdapp) • [Project Page](https://devpost.com/software/irys-fk5lr3)
 
 - Safe Track
 
