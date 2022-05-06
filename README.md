@@ -18,8 +18,10 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 
 **🔭 Work Experience**
 - Summer 2018 Engineering Education Intern for UMass Boston
-- Summer 2020 Algorithm Branch Intern at DJI
-- Fall 2021/Spring 2022 Subteam Electrical Engineering Lead for DJI RoboMaster
+- Summer 2020 Summer Intern at DJI
+- Fall 2021 Electrical Engineer for VT RoboGrinder
+- Spring 2022 Electical Engineer for VT SailBot
+- Summer 2022 Undergraduate Research Asssistant at the Assistive Robotics Lab
 
 
 ---
