@@ -2,26 +2,27 @@
 I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reach out!
 
 - Email: jaykatyan@gmail.com
-- Discord: [Java#2464](https://discordapp.com/users/297524766770987018)
+- LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
+- Discord: [Java#2464 | Discord](https://discordapp.com/users/297524766770987018)
 
 ---
 
 **🏫 Education**</br></br>
-***Virginia Tech, Class of 2024***
-- Major in Computer Science, Minor in Mathematics
-- Undergraduate Research Assistant at the Assistive Robotics Lab
-- Electrical Engineer at Virginia Tech SailBot
-- GPA: 3.893/4.000
+***Virginia Tech, Class of 2025***
+- Major in Computer Science
+- Overall GPA: 3.839/4.000
+- In-Major GPA: 4.000/4.000
 
 
 ---
 
 **🔭 Work Experience**
-- Summer 2018 Engineering Education Intern for UMass Boston
-- Summer 2020 Summer Intern at DJI
-- Fall 2021 Electrical Engineer for VT RoboGrinder
-- Spring 2022 Electical Engineer for VT SailBot
-- Summer 2022 Undergraduate Research Asssistant at the Assistive Robotics Lab
+- Summer 2018: Engineering Education Intern for UMass Boston
+- Summer 2020: Summer Intern at DJI
+- Fall 2021: DJI Robomaster Engineering Design Team (Electrical Branch)
+- Spring 2022: VT SailBot Engineering Design Team (Electrical Branch)
+- **CURRENT: Undergraduate Research Asssistant at the Assistive Robotics Lab**
+  - Machine Learning with PyTorch
 
 
 ---
