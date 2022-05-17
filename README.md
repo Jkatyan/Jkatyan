@@ -9,9 +9,9 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 
 **🏫 Education**</br></br>
 ***Virginia Tech, Class of 2025***
-- Major in Computer Science
-- Overall GPA: 3.839/4.000
-- In-Major GPA: 4.000/4.000
+- Major in Computer Science (Engineering)
+- Overall GPA: 3.80+
+- In-Major GPA: 4.00
 
 
 ---
@@ -28,12 +28,15 @@ I'm an aspiring Computer Science student at **Virginia Tech**, feel free to reac
 ---
 
 **🍎 CS Work**
+
 - [CS 2114 - Data Structures and Algorithms II](https://github.com/Jkatyan/CS-2114) *Private repository, permission required!*
   - Java
   - Linked Lists, Stacks, Queues, Binary Trees, Searching/Sorting, Efficiency
 - [CS 2104 - Problem Solving in Computer Science](https://github.com/Jkatyan/CS-2104) *Private repository, permission required!*
   - Python
   - Machine Learning, SQL, Postman, Regex, Efficiency, Cybersecurity
+- [Machine Learning with PyTorch](https://github.com/Jkatyan/Pytorch-ML)
+  - Tensors, Linear/Logistic Regression, Softmax, Shallow and Deep Neural Networks, Convolutional Neural Networks
 - [DJI Internship - Summer 2020](https://github.com/Jkatyan/DJI-Robomaster-2020)
 - [VEX Robotics - 2020/2021](https://github.com/Jkatyan/2602H-2020-2021)
 - [VEX Robotics - 2019/2020](https://github.com/Jkatyan/2602H-2019-2020)
