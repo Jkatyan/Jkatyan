@@ -10,8 +10,8 @@ I'm an aspiring Computer Science student at **Virginia Tech** with an interest i
 **🏫 Education**</br></br>
 ***Virginia Tech, Class of 2025***
 - Major in Computer Science (Engineering)
-- Overall GPA: 3.80+
-- In-Major GPA: 4.00
+- Overall GPA: 3.80+ / 4.00
+- In-Major GPA: 4.00 / 4.00
 
 
 ---
