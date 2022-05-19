@@ -21,7 +21,7 @@ I'm an aspiring Computer Science student at **Virginia Tech** with an interest i
 - Summer 2020: Summer Intern at DJI
 - Fall 2021: DJI Robomaster Engineering Design Team (Electrical Branch)
 - Spring 2022: VT SailBot Engineering Design Team (Electrical Branch)
-- **CURRENT: Undergraduate Research Asssistant at the Assistive Robotics Lab**
+- **CURRENT: Undergraduate Research Assistant at the Assistive Robotics Lab**
   - Machine Learning with PyTorch
 
 
