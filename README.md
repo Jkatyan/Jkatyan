@@ -1,5 +1,5 @@
 ### :wave: Hey there, I'm Jay!
-I'm a Computer Science student at **Virginia Tech** with an interest in Machine Learning, feel free to reach out!
+I'm a Computer Science student at **Virginia Tech** with an interest in Robotics and Machine Learning, feel free to reach out!
 
 - Email: jaykatyan@gmail.com
 - LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
@@ -19,10 +19,11 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Machine 
 **🔭 Work Experience**
 - Summer 2018: Engineering Education Intern for UMass Boston
 - Summer 2020: Summer Intern at DJI
-- Fall 2021: DJI Robomaster Engineering Design Team (Electrical Branch)
-- Spring 2022: VT SailBot Engineering Design Team (Electrical Branch)
+- Fall 2021: DJI Robomaster Engineering Design Team
+- Spring 2022: VT SailBot Engineering Design Team
 - **CURRENT: Undergraduate Research Assistant at the Assistive Robotics Lab**
   - Machine Learning with PyTorch
+- **CURRENT: Undergraduate Teaching Assistant for the VT Engineering Department**
 
 
 ---
