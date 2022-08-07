@@ -10,7 +10,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 **🏫 Education**</br></br>
 ***Virginia Tech, Class of 2025***
 - Major in Computer Science (Engineering)
-- Overall GPA: 3.80+ / 4.00
+- Overall GPA: 3.90+ / 4.00
 - In-Major GPA: 4.00 / 4.00
 
 
@@ -32,7 +32,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 
 - [CS 2114 - Data Structures and Algorithms II](https://github.com/Jkatyan/CS-2114) *Private repository, permission required!*
   - Java
-  - Linked Lists, Stacks, Queues, Binary Trees, Searching/Sorting, Efficiency
+  - Linked Lists, Stacks, Queues, Binary Trees, Searching/Sorting, Time and Space Efficiency
 - [CS 2104 - Problem Solving in Computer Science](https://github.com/Jkatyan/CS-2104) *Private repository, permission required!*
   - Python
   - Machine Learning, SQL, Postman, Regex, Efficiency, Cybersecurity
