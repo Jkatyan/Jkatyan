@@ -24,6 +24,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 - **CURRENT: Undergraduate Research Assistant at the Assistive Robotics Lab**
   - Machine Learning with PyTorch
 - **CURRENT: Undergraduate Teaching Assistant for the VT Engineering Department**
+- **CURRENT: VT Hacks X Organizer**
 
 
 ---
@@ -48,17 +49,15 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 
 **🌯 Projects**
 
+- Predicting Human Pose in Real Time with Deep Learning
+
+  - *Several applications in bio-mechanical engineering, gaming, and biofeedback/rehabilitation require a human’s skeletal configuration to be captured. With deep learning, real-time prediction of human pose with minimal hardware input and inexpensive infrastructure becomes possible. This project uses a deep neural network to process time-series data and to predict human pose instantaneously.*
+
 - IRYS, ADHD Diagnosis Tool
 
   - *With ADHD in children rising every year, there needs to be a solution to combat this. Introducing: IRYS, an ADHD diagnosis program using eye-tracking and machine learning for more accurate prognosis.*
 
   - [Project Repository](https://github.com/Jkatyan/adhdapp) • [Project Page](https://devpost.com/software/irys-fk5lr3)
-
-- Safe Track
-
-  - *Safe Track is a mobile/web application designed to guide users safely at night, using community-sourced navigation to provide the safest path to any location, integrated    with instant location sharing.*
-
-  - [Project Repository](https://github.com/Jkatyan/hack-violet) • [Project Page](https://devpost.com/software/safe-track)
 
 - ZETA
 
