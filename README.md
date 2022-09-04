@@ -36,7 +36,10 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
   - Linked Lists, Stacks, Queues, Binary Trees, Searching/Sorting, Time and Space Efficiency
 - [CS 2104 - Problem Solving in Computer Science](https://github.com/Jkatyan/CS-2104) *Private repository, permission required!*
   - Python
-  - Machine Learning, SQL, Postman, Regex, Efficiency, Cybersecurity
+  - Machine Learning, SQL, Postman, Regex, Cybersecurity
+- [CS 2505 - Computer Organization I](https://github.com/Jkatyan/CS-2505) *Private repository, permission required!*
+  - C
+  - Logic design, computer architecture, machine language, assembly language, high level language
 - [Machine Learning with PyTorch](https://github.com/Jkatyan/Pytorch-ML)
   - Tensors, Linear/Logistic Regression, Softmax, Shallow and Deep Neural Networks, Convolutional Neural Networks
 - [DJI Internship - Summer 2020](https://github.com/Jkatyan/DJI-Robomaster-2020)
