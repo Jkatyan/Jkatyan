@@ -91,7 +91,6 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 </div>
 
 <div align='center'>
-  
   <br></br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkatyan&layout=compact&theme=tokyonight)](https://github.com/jkatyan/github-readme-stats)
