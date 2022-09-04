@@ -89,10 +89,3 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"/></a>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="PyTorch"/></a>
 </div>
-
-<div align='center'>
-  <br></br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkatyan&layout=compact&theme=tokyonight)](https://github.com/jkatyan/github-readme-stats)
-  
-</div>
