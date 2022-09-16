@@ -25,6 +25,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
   - Machine Learning with PyTorch
 - **CURRENT: Undergraduate Teaching Assistant for the VT Engineering Department**
 - **CURRENT: VT Hacks X Organizer**
+- **UPCOMING: CS Intern at MathWorks**
 
 
 ---
