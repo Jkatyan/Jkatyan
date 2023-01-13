@@ -10,7 +10,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 **🏫 Education**</br></br>
 ***Virginia Tech, Class of 2024***
 - Major in Computer Science (Engineering)
-- Overall GPA: 3.90+ / 4.00
+- Overall GPA: 3.80+ / 4.00
 - In-Major GPA: 4.00 / 4.00
 
 
@@ -24,8 +24,8 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 - **CURRENT: Undergraduate Research Assistant at the Assistive Robotics Lab**
   - Machine Learning with PyTorch
 - **CURRENT: Undergraduate Teaching Assistant for the VT Engineering Department**
-- **CURRENT: VT Hacks X Organizer**
-- **UPCOMING: Engineering Development Group Intern at MathWorks**
+- **CURRENT: VT Hacks X Director**
+- **UPCOMING: Software Engineering / ML Co-OP at MathWorks**
 - **UPCOMING: Software Engineering Intern at Northrop Grumman**
 
 ---
