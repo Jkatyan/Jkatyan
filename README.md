@@ -21,9 +21,9 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 - Summer 2020: Summer Intern at DJI
 - Fall 2021: DJI Robomaster Engineering Design Team
 - Spring 2022: VT SailBot Engineering Design Team
-- **CURRENT: Undergraduate Research Assistant at the Assistive Robotics Lab**
-  - Machine Learning with PyTorch
-- **CURRENT: Undergraduate Teaching Assistant for the VT Engineering Department**
+- Summer 2022: Undergraduate Research Assistant at the Assistive Robotics Lab
+- Fall 2022: Undergraduate Teaching Assistant for the VT Engineering Department
+- **CURRENT: Undergraduate Research Fellow at the Sanghani Center for AI & Data Analytics**
 - **CURRENT: VT Hacks X Director**
 - **CURRENT: Software Engineering / ML Co-OP at MathWorks**
 - **UPCOMING: Software Engineering Intern at Northrop Grumman**
