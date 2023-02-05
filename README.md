@@ -1,5 +1,5 @@
 ### :wave: Hey there, I'm Jay!
-I'm a Computer Science student at **Virginia Tech** with an interest in Robotics and Machine Learning, feel free to reach out!
+I'm a Computer Science student at **Virginia Tech** with an interest in AI/ML & SWE, feel free to reach out!
 
 - Email: jaykatyan@gmail.com
 - LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
