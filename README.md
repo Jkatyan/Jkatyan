@@ -16,7 +16,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
   - Python
   - Machine Learning, SQL, Postman, Regex, Cybersecurity
 - [CS 2505 - Computer Organization I](https://github.com/Jkatyan/CS-2505) *Private repository, permission required!*
-  - C
+  - C, x86 Assembly
   - Logic design, computer architecture, machine language, assembly language, high level language
 - [Machine Learning with PyTorch](https://github.com/Jkatyan/Pytorch-ML)
   - Tensors, Linear/Logistic Regression, Softmax, Shallow and Deep Neural Networks, Convolutional Neural Networks
