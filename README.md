@@ -1,7 +1,7 @@
-### :wave: Hey there, I'm Jay!
+### :wave:  Hey there, I'm Jay!
 I'm a Computer Science student at **Virginia Tech** with an interest in AI/ML & SWE, feel free to reach out!
 
-- Email: jaykatyan@gmail.com
+- Email: jkatyan@vt.edu
 - LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
 - Discord: [Java#2464 | Discord](https://discordapp.com/users/297524766770987018)
 
