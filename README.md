@@ -7,29 +7,6 @@ I'm a Computer Science student at **Virginia Tech** with an interest in Robotics
 
 ---
 
-**🏫 Education**</br></br>
-***Virginia Tech, Class of 2024***
-- Major in Computer Science (Engineering)
-- Overall GPA: 3.85+ / 4.00
-- In-Major GPA: 4.00 / 4.00
-
-
----
-
-**🔭 Work Experience**
-- Summer 2018: Engineering Education Intern for UMass Boston
-- Summer 2020: Summer Intern at DJI
-- Fall 2021: DJI Robomaster Engineering Design Team
-- Spring 2022: VT SailBot Engineering Design Team
-- Summer 2022: Undergraduate Research Assistant at the Assistive Robotics Lab
-- Fall 2022: Undergraduate Teaching Assistant for the VT Engineering Department
-- **CURRENT: Undergraduate Research Fellow at the Sanghani Center for AI & Data Analytics**
-- **CURRENT: VT Hacks X Director**
-- **CURRENT: Software Engineering / ML Co-OP at MathWorks**
-- **UPCOMING: Software Engineering Intern at Northrop Grumman**
-
----
-
 **🍎 CS Work**
 
 - [CS 2114 - Data Structures and Algorithms II](https://github.com/Jkatyan/CS-2114) *Private repository, permission required!*
