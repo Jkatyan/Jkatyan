@@ -31,7 +31,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in AI/ML & 
 
 **🌯 Projects**
 
-- Predicting Human Pose in Real Time with Deep Learning
+- Predicting Human Pose in Real Time with Deep Learning (Research project with the Assistive Robotics Laboratory)
 
   - *Several applications in bio-mechanical engineering, gaming, and biofeedback/rehabilitation require a human’s skeletal configuration to be captured. With deep learning, real-time prediction of human pose with minimal hardware input and inexpensive infrastructure becomes possible. This project uses a deep neural network to process time-series data and to predict human pose instantaneously.*
 
