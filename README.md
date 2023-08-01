@@ -3,7 +3,7 @@ I'm a Computer Science student at **Virginia Tech** with an interest in AI/ML & 
 
 - Email: jkatyan@vt.edu
 - LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
-- Discord: [Java#2464 | Discord](https://discordapp.com/users/297524766770987018)
+- Discord: [datastructure | Discord](https://discordapp.com/users/297524766770987018)
 
 ---
 
