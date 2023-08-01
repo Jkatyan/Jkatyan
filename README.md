@@ -9,17 +9,18 @@ I'm a Computer Science student at **Virginia Tech** with an interest in AI/ML & 
 
 **🍎 CS Work**
 
-- [CS 2114 - Data Structures and Algorithms II](https://github.com/Jkatyan/CS-2114) *Private repository, permission required!*
-  - Java
-  - Linked Lists, Stacks, Queues, Binary Trees, Searching/Sorting, Time and Space Efficiency
 - [CS 2104 - Problem Solving in Computer Science](https://github.com/Jkatyan/CS-2104) *Private repository, permission required!*
   - Python
-  - Machine Learning, SQL, Postman, Regex, Cybersecurity
+  - Machine learning, SQL, Postman, regex, cybersecurity
+- [CS 2114 - Software Design & Data Structures](https://github.com/Jkatyan/CS-2114) *Private repository, permission required!*
+  - Java
+  - Linked lists, stacks, queues, binary trees, searching/sorting algorithms
 - [CS 2505 - Computer Organization I](https://github.com/Jkatyan/CS-2505) *Private repository, permission required!*
   - C, x86 Assembly
-  - Logic design, computer architecture, machine language, assembly language, high level language
-- [Machine Learning with PyTorch](https://github.com/Jkatyan/Pytorch-ML)
-  - Tensors, Linear/Logistic Regression, Softmax, Shallow and Deep Neural Networks, Convolutional Neural Networks
+  - Information representation, computer arithmetic, arithmetic/logic units, control unit design, basic computer organization
+- [CS 3114 - Data Structures & Algorithms](https://github.com/Jkatyan/CS-3114) *Private repository, permission required!*
+  - Java
+  - Time and space complexity analysis, graph traversal algorithms, divide-and-conquer algorithms, searching/sorting algorithms, advanced data structures, computational geometry
 - [DJI Internship - Summer 2020](https://github.com/Jkatyan/DJI-Robomaster-2020)
 - [VEX Robotics - 2020/2021](https://github.com/Jkatyan/2602H-2020-2021)
 - [VEX Robotics - 2019/2020](https://github.com/Jkatyan/2602H-2019-2020)
