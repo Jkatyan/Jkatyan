@@ -26,9 +26,10 @@ I'm a computer science student at **Virginia Tech** with an interest in AI/ML & 
   - Java
   - Time and space complexity analysis, graph traversal algorithms, divide-and-conquer algorithms, searching/sorting algorithms, advanced data structures, computational geometry
 - [CS 3304 - Comparitive Languages](https://github.com/Jkatyan/CS-3304)  
-  - Procedural, functional, logical, and object-oriented programming languages.  
+  - Rust, Pascal, Haskell, Scala, Racket, Ruby, Prolog, C++ 
   - Design, implementation, and application of programming languages. Syntax, semantics, binding, and functional, logic and object-oriented programming. 
-- [CS 4824 - Machine Learning](https://github.com/Jkatyan/CS-4824)    
+- [CS 4824 - Machine Learning](https://github.com/Jkatyan/CS-4824)
+  - Python
   - Probability distributions, MLE, regression, classification, decision tree, boosting, kernel methods, clustering, mixture models, graphical models, deep learning, and advanced topics (e.g., anomaly detection, crowdsourcing, fairness learning, and meta learning).
 
 ---
