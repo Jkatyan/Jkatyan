@@ -36,7 +36,7 @@ I'm a computer science student at **Virginia Tech** with an interest in AI/ML & 
 
 **Robotics Projects**
 
-- [DJI Internship - Summer 2020](https://github.com/Jkatyan/DJI-Robomaster-2020)
+- [DJI RoboMaster - Summer 2020](https://github.com/Jkatyan/DJI-Robomaster-2020)
 - [VEX Robotics - 2020/2021](https://github.com/Jkatyan/2602H-2020-2021)
 - [VEX Robotics - 2019/2020](https://github.com/Jkatyan/2602H-2019-2020)
 - [VEX Robotics Odometry](https://github.com/Jkatyan/Odometry)
