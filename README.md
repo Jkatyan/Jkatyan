@@ -1,5 +1,5 @@
 ### Hey there, I'm Jay!
-I'm a software engineer at MathWorks interested in robotics, machine learning, and software engineering!
+I'm a software engineer interested in robotics, machine learning, and software engineering!
 
 - Email: jaykatyan@gmail.com
 - LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
