@@ -1,7 +1,7 @@
 ### Hey there, I'm Jay!
-I'm a computer science student at **Virginia Tech** with an interest in AI/ML & SWE, feel free to reach out!
+I'm a software engineer at MathWorks interested in robotics, machine learning, and software engineering!
 
-- Email: jkatyan@vt.edu
+- Email: jaykatyan@gmail.com
 - LinkedIn: [Jay Katyan | LinkedIn](https://www.linkedin.com/in/jkatyan/)
 - Discord: [datastructure | Discord](https://discordapp.com/users/297524766770987018)
 
