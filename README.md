@@ -4,7 +4,7 @@ I'm a founder, software engineer, and researcher passionate about people, startu
 
 ---
 
-I'm previously researched embodied intelligence, multimodal knowledge retrieval, agentic memory systems, and continual learning at the University of Pennsylvania's <a href="https://www.grasp.upenn.edu/">GRASP Lab</a>. As an undergraduate, I researched language model–assisted code generation at the <a href="https://sanghani.cs.vt.edu/">Sanghani Center for Artificial Intelligence and Data Analytics</a>, and developed sparse-sensor pose estimation methods at the <a href="https://www.assistiveroboticslab.com/home">Assistive Robotics Lab</a>. I also spent some time working on computer vision techniques for monocular dense reconstruction at <a href="https://www.mathworks.com/">MathWorks</a>.
+I previously researched embodied intelligence, multimodal knowledge retrieval, agentic memory systems, and continual learning at the University of Pennsylvania's <a href="https://www.grasp.upenn.edu/">GRASP Lab</a>. As an undergraduate, I researched language model–assisted code generation at the <a href="https://sanghani.cs.vt.edu/">Sanghani Center for Artificial Intelligence and Data Analytics</a>, and developed sparse-sensor pose estimation methods at the <a href="https://www.assistiveroboticslab.com/home">Assistive Robotics Lab</a>. I also spent some time working on computer vision techniques for monocular dense reconstruction at <a href="https://www.mathworks.com/">MathWorks</a>.
 
 I'm a huge hackathon enthusiast (and former hackathon director!), and several of my projects are available on <a href="https://devpost.com/jkatyan">Devpost</a>. 
 
